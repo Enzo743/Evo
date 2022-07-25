@@ -1,0 +1,23 @@
+{
+  "name": "evo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enzo743/Evo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enzo743/Evo/issues"
+  },
+  "homepage": "https://github.com/Enzo743/Evo#readme",
+  "dependencies": {
+    "discord.js": "^14.0.3"
+  }
+}
